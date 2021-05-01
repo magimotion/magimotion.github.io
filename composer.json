@@ -7,7 +7,7 @@
     "keywords": ["code coverage", "magimotion", "coverage reports"],
     "authors": [
         {
-            "name": "magimotion.io",
+            "name": "magimotion.io"
         }
     ],
     "require": {
