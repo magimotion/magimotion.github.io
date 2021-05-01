@@ -1,3 +1,0 @@
-<html>
-<p>hello world2</p>
-</html>
